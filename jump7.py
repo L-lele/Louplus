@@ -1,4 +1,5 @@
 for a in range(1,101):
+#add a command
 	if a % 7 == 0:
 		continue
 	elif a % 10 == 7:
